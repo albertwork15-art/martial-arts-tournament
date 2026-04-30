@@ -2,6 +2,7 @@
 
 A robust, full-stack application designed to manage Jiu-Jitsu and Wrestling tournaments. This platform automates the creation of tournament brackets, handles competitor registration by weight and belt level, and provides real-time updates for an engaging live event experience.
 
+> 💡 **Nota:** Este repositorio contiene únicamente la API REST (Backend). Puedes explorar la interfaz de usuario en el **[Repositorio del Frontend (Angular) 🌐](https://github.com/albertwork15-art/martial-arts-frontend)**.
 ## Architecture & Tech Stack
 
 This project is built using a modern microservices-oriented architecture, focusing on scalability, security, and a premium user experience.
